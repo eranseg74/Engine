@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550860960 source:/home/eran/Documents/CPP/Engine/main.cpp
+	<iostream>
+	<string>
+
